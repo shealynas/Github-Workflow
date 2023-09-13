@@ -1,3 +1,3 @@
 # Github-Workflow
 
-## To improve is to change.
+## There is nothing constant, except change.
